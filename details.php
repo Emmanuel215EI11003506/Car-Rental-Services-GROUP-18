@@ -1,17 +1,18 @@
 @extends('layouts.theme')
 @section('content')
     <div class="jumbotron">
-        <h1>Welcome to the GROUP I8 Car rental servicies</h1>
-        <a href="contact.blade.php">We serve you better</a>
+        <h1>Welcome to GROUP I8 Car Rental and Sale Services</h1>
+        <a href="contact.blade.php">We serve you Better</a>
         </div>
     <div class="row">
         <div class="col-sm-6 col-md-4">
             <div class="thumbnail">
                 <img src="/images/1.jpg">
                 <div class="caption">
+                    <h3>Brand New Car </h3>
                     <h3>Slightly Used Car </h3>
-                    <p>six month guarantee</p>
-                    <p>Price=GHC5,0000.00</p>
+                    <p>Six Month Guarantee</p>
+                    <p>Price=Depending on the Car Brand and Distance to Cover</p>
                      <p></p>
                     <p><a href="details.blade.php" class="btn btn-warning" role="button">DETAILS</a>
                         <a href="#" class="btn btn-danger" role="button">CALL</a></p>
@@ -24,8 +25,9 @@
                 <img src="/images/2.jpg" alt="...">
                 <div class="caption">
                     <h3>NEW  CAR</h3>
-                    <p>negotiable</p>
-                    <p>Price=GHC8,0000.00</p>
+                    <h3>Slightly Used Car </h3>
+                    <p>Negotiable</p>
+                    <p>Price=Depending on the Car Brand and Distance to Cover</p>
                     <p><a href="#" class="btn btn-warning" role="button">DETAILS</a>
                         <a href="#" class="btn btn-danger" role="button">CALL</a></p>
                 </div>
@@ -37,8 +39,8 @@
                 <img src="/images/3.jpg" alt="...">
                 <div class="caption">
                     <h3>Brand New</h3>
-                    <p>Toyota </p>
-                    <p>Price=GHC10,0000.00</p>
+                    <p>Toyota Ran4 </p>
+                    <p>Price=GHC40,000.00</p>
                     <p><a href="#" class="btn btn-warning" role="button">DETAILS</a>
                         <a href="#" class="btn btn-danger" role="button">CALL</a></p>
                 </div>
@@ -51,9 +53,9 @@
             <div class="thumbnail">
                 <img src="/images/4.jpg" alt="...">
                 <div class="caption">
-                    <h3>Home Used</h3>
-                    <p>nissan</p>
-                    <p>Price=GHC6,0000.00</p>
+                    <h3>Brand New</h3>
+                    <p>Nissan 4x4</p>
+                    <p>Price=GHC35,000.00</p>
                     <p><a href="#" class="btn btn-warning" role="button">DETAILS</a>
                         <a href="#" class="btn btn-danger" role="button">CALL</a></p>
                 </div>
@@ -64,9 +66,9 @@
             <div class="thumbnail">
                 <img src="/images/5.jpg" alt="...">
                 <div class="caption">
-                    <h3>slightly used </h3>
-                    <p>Nissan</p>
-                    <p>Price=GHC 21,0000.00</p>
+                    <h3>Slightly Used </h3>
+                    <p>Nissan 4X4</p>
+                    <p>Price=GHC 25,000.00</p>
                     <p><a href="#" class="btn btn-warning" role="button">DETAILS</a>
                         <a href="#" class="btn btn-danger" role="button">CALL</a></p>
                 </div>
@@ -78,8 +80,8 @@
                 <img src="/images/6.jpg" alt="...">
                 <div class="caption">
                     <h3>Brand new</h3>
-                    <p>passat</p>
-                    <p>Price=GHC7,0000.00</p>
+                    <p>VW Passat</p>
+                    <p>Price=GHC25,000.00</p>
                     <p><a href="#" class="btn btn-warning" role="button">DETAILS</a>
                         <a href="#" class="btn btn-danger" role="button">CALL</a></p>
                 </div>
@@ -107,8 +109,8 @@
                 <img src="/images/8.jpg" alt="...">
                 <div class="caption">
                     <h3>Brand New</h3>
-                    <p>Hundia</p>
-                     <p>Price=GHC7,0000.00</p>
+                    <p>Hundia Elentra Modle</p>
+                     <p>Price=GHC32,000.00</p>
                     <p><a href="#" class="btn btn-warning" role="button">DETAILS</a>
                         <a href="#" class="btn btn-danger" role="button">CALL</a></p>
                 </div>
@@ -121,7 +123,7 @@
                 <div class="caption">
                     <h3>Hundia</h3>
                     <p>Hundia Ascent</p>
-                    <p>Price=GHC7,0000.00</p>
+                    <p>Price=GHC17,000.00</p>
                     <p><a href="#" class="btn btn-warning" role="button">DETAILS</a>
                         <a href="#" class="btn btn-danger" role="button">CALL</a></p>
                 </div>
@@ -132,9 +134,9 @@
             <div class="thumbnail">
                 <img src="/images/10.jpg" alt="...">
                 <div class="caption">
-                    <h3>masaraty</h3>
+                    <h3>Masaraty</h3>
                     <p>4x4</p>
-                    <p>Price=GHC4,0000.00</p>
+                    <p>Price=GH72,000.00</p>
                     <p><a href="#" class="btn btn-warning" role="button">DETAILS</a>
                         <a href="#" class="btn btn-danger" role="button">CALL</a></p>
                 </div>
@@ -149,8 +151,8 @@
 
 <!---thsi is the footer copyright-->
 <div id="pfoot">
-    <h6>&copyCopyright 2017. All right Reserved. | Website by <a href="#">STUDENT ID: 215EI11003434 STUDENT NAME:OSUYAH EBENZER   ||   STUDENT ID: 215EI11003347  STUDENT NAME:BOATENG SAMUEL </h6></a>
-    <p><h3>GROUP 18: TOPIC: MINI ONLINE CAR RENTAL</h3></p>
+    <h6>&copyCopyright 2017. All right Reserved. | Website by <a href="#">STUDENT ID: 2 1 5 E I 1 1 0 0 3 5 0 6   STUDENT NAME: EMMANUEL OSEI-DANSO   || STUDENT ID: 2 1 5 E I 1 1 0 0 3 5 0 6 3 4  STUDENT NAME:OSUYAH EBENZER   ||   STUDENT ID: 2 1 5 E I 1 1 0 0 3 3 4 7  STUDENT NAME: BOATENG SAMUEL </h6></a>
+    <p><h3>GROUP 18: TOPIC: MINI ONLINE CAR RENTAL SERVICES</h3></p>
 </div> 
      
     @endsection

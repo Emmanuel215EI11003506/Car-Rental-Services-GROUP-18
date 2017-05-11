@@ -1,7 +1,7 @@
 @extends('layouts.theme')
 @section('content')
     <div class="jumbotron">
-        <h1>Welcome to the GROUP I8 Car Rental Servicies</h1>
+        <h1>Welcome to the GROUP I8 Car rental servicies</h1>
         <a href="contact.blade.php">We serve you better</a>
         </div>
     <div class="row">
@@ -25,6 +25,10 @@
                 <div class="caption">
                     <h3>Nissan</h3>
                     <p>Pick-Up</p>
+                    <h3>Opel</h3>
+                    <p>Vectra</p>
+                    <h3>Toyota</h3>
+                    <p>Corola-S</p>
                 
                     <p><a href="#" class="btn btn-warning" role="button">DETAILS</a>
                         <a href="#" class="btn btn-danger" role="button">CALL</a></p>
@@ -149,8 +153,8 @@
 
 <!---thsi is the footer copyright-->
 <div id="pfoot">
-    <h6>&copyCopyright 2017. All right Reserved. | Website by <a href="#">STUDENT ID: 215EI11003434 STUDENT NAME:OSUYAH EBENZER   ||   STUDENT ID: 215EI11003347  STUDENT NAME:BOATENG SAMUEL </h6></a>
-    <p><h3>GROUP 18: TOPIC: MINI ONLINE CAR RENTAL</h3></p>
+    <h6>&copyCopyright 2017. All right Reserved. | Website by <a href="#">STUDENT ID: 2 1 5 E I 1 1 0 0 3 5 0 6   STUDENT NAME: EMMANUEL OSEI-DANSO   || STUDENT ID: 2 1 5 E I 1 1 0 0 3 5 0 6 3 4  STUDENT NAME:OSUYAH EBENZER   ||   STUDENT ID: 2 1 5 E I 1 1 0 0 3 3 4 7  STUDENT NAME: BOATENG SAMUEL </h6></a>
+    <p><h3>GROUP 18: TOPIC: MINI ONLINE CAR RENTAL SERVICES</h3></p>
 </div> 
      
     @endsection
